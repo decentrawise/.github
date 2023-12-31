@@ -1,5 +1,3 @@
-![logo](https://github.com/indieprotocol/media/blob/main/logo/logo.png)
-
 ## Indie Protocol
 
 We are a collective of web3 enabled creators and developers that decided to come together with the purpose of rethinking the incentive structures for digital content creators! 👍
